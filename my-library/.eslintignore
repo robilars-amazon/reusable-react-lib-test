@@ -1,0 +1,5 @@
+dist/*
+dist-webpack/*
+dist-rollup/*
+node_modules/*
+
